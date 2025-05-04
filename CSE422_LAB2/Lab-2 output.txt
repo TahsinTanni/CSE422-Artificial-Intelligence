@@ -1,0 +1,10 @@
+Best Strategy:
+stop_loss = 1.5
+take_profit = 4
+trade_size = 25
+
+Final Profit: 24.634517552985244
+
+Parents: ('205020', '154025')
+1st child: 205020
+2nd child: 154025
